@@ -1,0 +1,44 @@
+.projects {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f4f4f4;
+}
+
+.projects h2 {
+  font-size: 2rem;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.project {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.project-description {
+  display: none;
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.project-date {
+  font-size: 14px;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+.project:hover .project-description {
+  display: block;
+}

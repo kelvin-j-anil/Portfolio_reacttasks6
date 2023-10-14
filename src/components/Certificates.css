@@ -1,0 +1,41 @@
+/* Certificates.css */
+
+.certificates {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .certificates h2 {
+    font-size: 2rem;
+  }
+  
+  .certificates-carousel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .certificate-item {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    transition: transform 0.3s;
+    cursor: pointer;
+  }
+  
+  .certificate-item h3 {
+    font-size: 1.5rem;
+  }
+  
+  .certificate-item p {
+    font-size: 16px;
+  }
+  
+  .certificate-item:hover {
+    transform: scale(1.05);
+  }
+  
