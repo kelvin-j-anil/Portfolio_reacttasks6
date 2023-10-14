@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio_reacttasks6/static/css/main.2938663f.css",
+    "main.js": "/Portfolio_reacttasks6/static/js/main.53d69316.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio_reacttasks6/static/js/787.1ed0c42c.chunk.js",
+    "static/media/volcano.jpg": "/Portfolio_reacttasks6/static/media/volcano.60a1d768614a2bdc6a69.jpg",
+    "index.html": "/Portfolio_reacttasks6/index.html",
+    "main.2938663f.css.map": "/Portfolio_reacttasks6/static/css/main.2938663f.css.map",
+    "main.53d69316.js.map": "/Portfolio_reacttasks6/static/js/main.53d69316.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio_reacttasks6/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2938663f.css",
+    "static/js/main.53d69316.js"
+  ]
+}
